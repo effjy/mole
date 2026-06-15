@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://github.com/effjy/mole/"><img src="titles/mole-title.svg" height="44" alt="Mole"></a>
-</div>
+
 
 ![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
 ![Language](https://img.shields.io/badge/language-C11-555?style=flat-square)
@@ -8,6 +8,8 @@
 ![Platform](https://img.shields.io/badge/platform-Linux-1d1d1d?style=flat-square)
 ![Build](https://img.shields.io/badge/build-make-darkgreen?style=flat-square)
 ![Version](https://img.shields.io/badge/version-1.0.0-orange?style=flat-square)
+
+</div>
 
 `mole` recursively walks a directory tree and greps every text file for leaked
 credentials — API keys, private keys, JWTs, AWS/GCP tokens — using a
