@@ -1,4 +1,6 @@
-# mole — Secrets Scanner (CLI + GTK3)
+<div align="center">
+<a href="https://github.com/effjy/mole/"><img src="titles/mole-title.svg" height="44" alt="Mole"></a>
+</div>
 
 ![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
 ![Language](https://img.shields.io/badge/language-C11-555?style=flat-square)
