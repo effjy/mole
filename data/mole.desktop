@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=mole
+GenericName=Secrets Scanner
+Comment=Recursively scan a tree for leaked credentials (entropy + regex)
+Exec=mole-gui
+Icon=mole
+Terminal=false
+Categories=Development;Security;Utility;
+Keywords=secrets;credentials;scanner;entropy;security;leak;
