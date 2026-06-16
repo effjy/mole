@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://github.com/effjy/mole/"><img src="titles/mole-title.svg" height="44" alt="Mole"></a>
+<a href="https://github.com/effjy/mole/"><img src="titles/mole-title.svg" height="52" alt="Mole"></a>
 
 
 ![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
